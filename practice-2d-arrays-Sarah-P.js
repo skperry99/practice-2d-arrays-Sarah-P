@@ -22,3 +22,12 @@ contactsList.
 2. Insert two inner arrays, each with three strings representing a contact’s
 details.
 */
+
+let allScores = [[87,92,92],[64,73,79],[70,72,84]];
+console.log(allScores);
+
+let theaterSeating = [["A1","A2","A3","A4"],["B1","B2","B3","B4"],["C1","C2","C3","C4"]];
+console.log(theaterSeating);
+
+let contactsList = [["Laverne","lv@mail.com","(555)123-4567"],["Shirley","shir@mail.com","(555)987-6543"]];
+console.log(contactsList);
